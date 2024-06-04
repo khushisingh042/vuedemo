@@ -28,7 +28,7 @@ export default{
   justify-content: flex-start;
   background-color: black;
   color: white;
-  padding:15px
+  padding:14px
 }
 
 .header a {
