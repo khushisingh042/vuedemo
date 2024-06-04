@@ -32,7 +32,7 @@ export default{
 }
 
 .header a {
-  margin-right: 20px;
+  margin-right: 21px;
   
   color: white;
   text-decoration: none;
